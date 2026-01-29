@@ -1,7 +1,7 @@
 {
   "name": "ai-deps",
   "version": "1.0.0",
-  "description": "Audits your package.json, finds unused deps, flags outdated ones",
+  "description": "AI-powered dependency analyzer - smart upgrade recommendations with GPT compatibility checks",
   "main": "dist/index.js",
   "bin": {
     "ai-deps": "dist/cli.js"
@@ -10,10 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
-    "dependencies",
-    "audit",
     "ai",
-    "cli"
+    "openai",
+    "gpt",
+    "dependencies",
+    "npm",
+    "package-json",
+    "upgrade",
+    "outdated",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "maintenance",
+    "updates"
   ],
   "license": "MIT",
   "dependencies": {
