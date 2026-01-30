@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-deps.svg)](https://www.npmjs.com/package/ai-deps)
 [![npm downloads](https://img.shields.io/npm/dm/ai-deps.svg)](https://www.npmjs.com/package/ai-deps)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-deps)](https://github.com/lxgic-studios/ai-deps/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Your package.json is probably a mess. This tool finds unused dependencies, flags outdated ones, and tells you what to do about it.
