@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "AI-powered dependency analyzer - smart upgrade recommendations with GPT compatibility checks",
   "main": "dist/index.js",
+  "types": "./dist/index.d.ts",
   "bin": {
     "ai-deps": "dist/cli.js"
   },
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -29,7 +34,27 @@
     "maintenance",
     "updates"
   ],
+  "author": "LXGIC Studios",
   "license": "MIT",
+  "homepage": "https://github.com/LXGIC-Studios/ai-deps#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXGIC-Studios/ai-deps"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/ai-deps/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "dependencies": {
     "commander": "^12.1.0",
     "depcheck": "^1.4.7",
@@ -40,10 +65,5 @@
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
-  },
-  "author": "LXGIC Studios",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-deps"
   }
 }
