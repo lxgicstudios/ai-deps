@@ -1,5 +1,5 @@
 {
-  "name": "ai-deps",
+  "name": "@lxgicstudios/ai-deps",
   "version": "1.0.0",
   "description": "AI-powered dependency analyzer - smart upgrade recommendations with GPT compatibility checks",
   "main": "dist/index.js",
