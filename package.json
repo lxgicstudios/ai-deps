@@ -1,66 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-deps",
-  "version": "1.0.0",
-  "description": "AI-powered dependency analyzer - smart upgrade recommendations with GPT compatibility checks",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-deps": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc"
-  },
-  "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "claude",
-    "cli",
-    "dependencies",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "generative-ai",
-    "gpt",
-    "llm",
-    "llm-optimized",
-    "maintenance",
-    "modern-seo",
-    "npm",
-    "optimization",
-    "performance",
-    "performance-optimization",
-    "seo",
-    "seo-2026",
-    "typescript"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-deps#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-deps"
-  },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-deps/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "url": "https://github.com/lxgicstudios/ai-deps/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -69,8 +17,55 @@
     "openai": "^4.52.0",
     "ora": "^5.4.1"
   },
+  "description": "AI-powered dependency analyzer - smart upgrade recommendations with GPT compatibility checks",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-deps#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai",
+    "ai-optimized",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-deps",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-deps"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
