@@ -16,7 +16,7 @@
 
 # AI Deps
 
-solve specific development challenges with AI-powered insights.
+AI-powered dependency analyzer — smart upgrade recommendations, compatibility checks, and vulnerability detection. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-deps.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-deps)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-deps?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-deps)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered dependency analyzer - smart upgrade recommendations with GPT compatibility checks.
+> AI-powered dependency analyzer — smart upgrade recommendations with GPT compatibility checks.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
