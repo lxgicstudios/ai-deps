@@ -49,10 +49,7 @@
     "june-2026-core-update",
     "npm",
     "npx",
-    "openai",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
